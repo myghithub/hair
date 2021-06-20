@@ -1,0 +1,41 @@
+{
+  "pc": "com.alkhalilstudio.hairstyle",
+  "kang_zayvius": [      
+    {
+      "id": "1",
+      "tittle": "Gaya Rambut Korea",
+      "link_html": "https://raw.githubusercontent.com/myghithub/hair/main/korea.html",
+      "images": "https://gatsby.co.id/media/article/model_rambut_pria_korea_curtain_hair.jpg"
+     },
+     {
+      "id": "2",
+      "tittle": "Gaya Rambut Sepanjang Masa",
+      "link_html": "https://raw.githubusercontent.com/myghithub/hair/main/sepanjang%20masa.html",
+      "images": "https://s4.bukalapak.com/uploads/content_attachment/9b642ab730e8d762bd3cd2c5/w-744/2Model-rambut-pompadour-cocok-untuk-pengguna-pomade.jpg"
+     },
+    {
+      "id": "3",
+      "tittle": "Gaya Rambut Jadul Peria",
+      "link_html": "https://raw.githubusercontent.com/myghithub/hair/main/jadul%20man.html",
+      "images": "https://cdn-brilio-net.akamaized.net/news/2018/10/19/153645/933559-model-rambut-1950-1980.jpg"
+     },
+    {
+      "id": "4",
+      "tittle": "Gaya Rambut Jadul Wanita",
+      "link_html": "https://raw.githubusercontent.com/myghithub/hair/main/jadul%20women.html",
+      "images": "https://assets.indozone.news/local/5d1f0d35a92ef.jpg"
+     },
+     {
+      "id": "5",
+      "tittle": "Gaya Rambut Anak Laki Laki",
+      "link_html": "https://raw.githubusercontent.com/myghithub/hair/main/anak%20cowok.html",
+      "images": "https://cdn.popmama.com/content-images/post/20190408/rambut-anak-laki-harptimescom-bowl-cut-7-edited-3a152a58a08535da62ac6df9dc9ab17b_600xauto.jpg"
+     },
+     {
+      "id": "6",
+      "tittle": "Gaya Rambut Anak Perempuan",
+      "link_html": "https://raw.githubusercontent.com/myghithub/hair/main/anak%20cewek.html",
+      "images": "https://www.motherandbaby.co.id/lkgallery/teaser/201eb55f562dc5bc3a22c495bc290c66.jpg"
+     }
+  ]
+}
